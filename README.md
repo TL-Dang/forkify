@@ -1,1 +1,4 @@
 # forkify
+-npm init
+-npm i parcel -D
+-npm start
